@@ -1,0 +1,17 @@
+F:\VB.NET PROJECTS\Prime\PrimeNumbers1-100\obj\Debug\net6.0-windows\PrimeNumbers1-100.vbproj.AssemblyReference.cache
+F:\VB.NET PROJECTS\Prime\PrimeNumbers1-100\obj\Debug\net6.0-windows\PrimeNumbers1_100.Form1.resources
+F:\VB.NET PROJECTS\Prime\PrimeNumbers1-100\obj\Debug\net6.0-windows\PrimeNumbers1-100.vbproj.GenerateResource.cache
+F:\VB.NET PROJECTS\Prime\PrimeNumbers1-100\obj\Debug\net6.0-windows\PrimeNumbers1-100.GeneratedMSBuildEditorConfig.editorconfig
+F:\VB.NET PROJECTS\Prime\PrimeNumbers1-100\obj\Debug\net6.0-windows\PrimeNumbers1-100.AssemblyInfoInputs.cache
+F:\VB.NET PROJECTS\Prime\PrimeNumbers1-100\obj\Debug\net6.0-windows\PrimeNumbers1-100.AssemblyInfo.vb
+F:\VB.NET PROJECTS\Prime\PrimeNumbers1-100\obj\Debug\net6.0-windows\PrimeNumbers1-100.vbproj.CoreCompileInputs.cache
+F:\VB.NET PROJECTS\Prime\PrimeNumbers1-100\bin\Debug\net6.0-windows\PrimeNumbers1-100.exe
+F:\VB.NET PROJECTS\Prime\PrimeNumbers1-100\bin\Debug\net6.0-windows\PrimeNumbers1-100.deps.json
+F:\VB.NET PROJECTS\Prime\PrimeNumbers1-100\bin\Debug\net6.0-windows\PrimeNumbers1-100.runtimeconfig.json
+F:\VB.NET PROJECTS\Prime\PrimeNumbers1-100\bin\Debug\net6.0-windows\PrimeNumbers1-100.dll
+F:\VB.NET PROJECTS\Prime\PrimeNumbers1-100\bin\Debug\net6.0-windows\ref\PrimeNumbers1-100.dll
+F:\VB.NET PROJECTS\Prime\PrimeNumbers1-100\bin\Debug\net6.0-windows\PrimeNumbers1-100.pdb
+F:\VB.NET PROJECTS\Prime\PrimeNumbers1-100\obj\Debug\net6.0-windows\PrimeNumbers1-100.dll
+F:\VB.NET PROJECTS\Prime\PrimeNumbers1-100\obj\Debug\net6.0-windows\ref\PrimeNumbers1-100.dll
+F:\VB.NET PROJECTS\Prime\PrimeNumbers1-100\obj\Debug\net6.0-windows\PrimeNumbers1-100.pdb
+F:\VB.NET PROJECTS\Prime\PrimeNumbers1-100\obj\Debug\net6.0-windows\PrimeNumbers1-100.genruntimeconfig.cache
